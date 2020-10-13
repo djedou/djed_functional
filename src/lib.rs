@@ -1,1 +1,3 @@
-pub mod functional;
+mod functional;
+
+pub use functional::*;
